@@ -1,0 +1,686 @@
+{
+  "Ajeidy" : {
+    "Affiliates" : {
+      "AJEIDY300" : {
+        "1158275692079025E13" : {
+          "Coupon" : "AJEIDY300",
+          "Discount" : "300",
+          "ReceiptNo" : "1158275692079025E13"
+        }
+      },
+      "FREE200" : {
+        "1032986140896494E13" : {
+          "Coupon" : "FREE200",
+          "Discount" : "300",
+          "ReceiptNo" : "1032986140896494E13"
+        },
+        "2101849657900993E13" : {
+          "Coupon" : "FREE200",
+          "Discount" : "300",
+          "ReceiptNo" : "2101849657900993E13"
+        },
+        "27430864222937766E13" : {
+          "Coupon" : "FREE200",
+          "Discount" : "300",
+          "ReceiptNo" : "27430864222937766E13"
+        },
+        "29614189658262886E12" : {
+          "Coupon" : "FREE200",
+          "Discount" : "300",
+          "ReceiptNo" : "29614189658262886E12"
+        },
+        "5046704844212529E13" : {
+          "Coupon" : "FREE200",
+          "Discount" : "300",
+          "ReceiptNo" : "5046704844212529E13"
+        },
+        "5244456179789304E13" : {
+          "Coupon" : "FREE200",
+          "Discount" : "300",
+          "ReceiptNo" : "5244456179789304E13"
+        },
+        "6443281618342461E13" : {
+          "Coupon" : "FREE200",
+          "Discount" : "300",
+          "ReceiptNo" : "6443281618342461E13"
+        },
+        "6794930567699619E13" : {
+          "Coupon" : "FREE200",
+          "Discount" : "300",
+          "ReceiptNo" : "6794930567699619E13"
+        },
+        "7254525228653355E13" : {
+          "Coupon" : "FREE200",
+          "Discount" : "300",
+          "ReceiptNo" : "7254525228653355E13"
+        },
+        "8457267024416908E13" : {
+          "Coupon" : "FREE200",
+          "Discount" : "0",
+          "ReceiptNo" : "8457267024416908E13"
+        }
+      },
+      "WELCOME001" : {
+        "6489274646469142E13" : {
+          "Coupon" : "WELCOME001",
+          "Discount" : "200",
+          "ReceiptNo" : "6489274646469142E13"
+        },
+        "8276456058642927E13" : {
+          "Coupon" : "WELCOME001",
+          "Discount" : "1500",
+          "ReceiptNo" : "8276456058642927E13"
+        }
+      }
+    },
+    "AjeidyUsers" : {
+      "ajeidy" : {
+        "email" : "ajeidy@gmail.com",
+        "username" : "Ajeidy"
+      },
+      "ajeidyfrag" : {
+        "email" : "ajeidyfragrances@gmail.com",
+        "username" : "ajeidyfrag"
+      },
+      "deeksontest" : {
+        "email" : "deekson@gmail.com",
+        "username" : "deeksontest"
+      },
+      "john" : {
+        "email" : "playstorecnxcnx@gmail.com",
+        "username" : "john"
+      }
+    },
+    "ApprovedCoupons" : {
+      "AJEIDY300" : {
+        "Coupon" : "AJEIDY300",
+        "Discount" : "300",
+        "MinPrice" : "400"
+      },
+      "WELCOME001" : {
+        "Coupon" : "WELCOME200",
+        "Discount" : "200",
+        "MinPrice" : "1500"
+      }
+    },
+    "Colognes" : {
+      "Female" : {
+        "Allure_Sensuelle" : {
+          "Description" : "Allure Sensuelle \n\n 100ml \n\n Allure Sensuelle has preserved its unique and playful fickleness with dazzling citrus, fruity and floral notes, and magnificent wooden accords. Resemblance is there, yet the fragrance has become more mysterious and shady. It has not become heavier, but unlike the dazzling brightness and joyful sunny character of the classic Allure, Allure Sensuelle is warmer, its powdery (iris) and oriental notes are accentuated. Its sweet notes (candied fruits) are not obtruding, but hidden in sensual spices and frankincense. \n\n The top notes contain bergamot, mandarin and pink pepper. \n\n The heart is composed of jasmine, rose, iris, candied fruits and vetiver .\n\n Base notes of French vanilla, amber, patchouli and frankincense.The perfume was created in 2005 by Jacques Polge. Its face is charming actress Anna Mouglailis.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Allure Sensuelle",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/allure_sensuelle.png",
+          "Price" : "1350"
+        },
+        "Ariana_Grande_Cloud" : {
+          "Description" : "Ariana Grande Cloud By Clement Gavarry \n\n  Cloud by Ariana Grande is a Floral Fruity Gourmand fragrance for women. Cloud was launched in 2018.  \n Top notes are Lavender, Pear and Bergamot; \n middle notes are Whipped cream, Praline, Coconut and Vanilla orchid; \n base notes are Musk and Woody Notes.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Ariana Grande Cloud",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/ariana_grande_cloud.png",
+          "Price" : "1890"
+        },
+        "Baccarat_Rouge_540" : {
+          "Description" : "Baccarat Rouge 540 by Francis Kurkdjian \n\n  Baccarat Rouge 540 by Maison Francis Kurkdjian is a Oriental Floral fragrance for women and men. Baccarat Rouge 540 was launched in 2015. The nose behind this fragrance is Francis Kurkdjian. \n Top notes are Saffron and Jasmine; \n middle notes are Amberwood and Ambergris; \n base notes are Fir Resin and Cedar. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Baccarat Rouge 540",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/baccarat_rouge.png",
+          "Price" : "2300"
+        },
+        "Black_Opium" : {
+          "Description" : "Black Opium Yves Saint Laurent for women \n\n In September of 2014 Yves Saint Laurent launches Black Opium, the new fragrance announced as a rock'n'roll interpretation of the classic that should highlight the dark, mysterious side of the YSL brand. Master perfumers Nathalie Lorson and Marie Salamagne, in collaboration with Olivier Cresp and Honorine Blanc, developed the composition. Notes of coffee, present in large quantities, dominate the scent. Additional accords are pink pepper, orange blossom, jasmine, vanilla, patchouli and cedar.The perfume comes in the bottle designed as the last editions of the Opium collection. The bottle is dark and decorated with sequins that give a glam rock look. The face of the perfume's campaign is British model Edie Campbell, shot by Daniel Wolfe.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations. ",
+          "FragranceName" : "Black Opium",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/black_opium.png",
+          "Price" : "1600"
+        },
+        "Burberry_London" : {
+          "Description" : "Burberry London \n\n 100ml \n\n The house of Burberry is announcing a new fragrant pair, holiday edition of Burberry London for men and women. These limited versions are scheduled to hit the shelves in October 2009. Aromas of perfumes are changed in comparison with previous editions.Special edition of Burberry London for Men 2009 is a creation by Antoine Maisondieu.\n\n The perfume starts its woody-spicy composition with fruity notes of lemon, green pineapple and currant.\n\n Middle notes of lavender are fresh and aquatic, \n\n while a base is intensive and made of wood and amber.Flacons of the perfume pair are similar to versions from 2008. They have typical rectangular shape and checked pattern on the flacons and on outer carton. The masculine version is coloured in dark grey. Both are very simple and elegant, ideal for upcoming holidays.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Burberry London",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/burberry_london.png",
+          "Price" : "1700"
+        },
+        "Burberry_Touch" : {
+          "Description" : "Burberry Touch By Jean-Pierre Bethouart \n\n 100ml \n\n Touch for Men by Burberry is a Woody Floral Musk fragrance for men. Touch for Men was launched in 2000. The nose behind this fragrance is Jean-Pierre Bethouart. \n\n Top notes are artemisia, violet leaf and mandarin orange; \n\n middle notes are nutmeg, white pepper and cedar;\n\n base notes are tonka bean, vetiver and white musk. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Burberry Touch",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/burberry_touch.png",
+          "Price" : "1500"
+        },
+        "Club_De_Nuit" : {
+          "Description" : "Club De Nuit \n\n  Club De Nuit by Armaf is a Floral Fruity fragrance for women. Top notes are Orange, Grapefruit, Bergamot and Peach; middle notes are Rose, Geranium, Jasmine and Litchi; base notes are Patchouli, Vanilla, Musk and Vetiver.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Club De Nuit",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/club_de_nuit.png",
+          "Price" : "1925"
+        },
+        "Coco_Mademoiselle" : {
+          "Description" : "Coco Mademoiselle Chanel by Jacques Polge \n\n Coco Mademoiselle by Chanel is a Oriental Floral fragrance for women. Coco Mademoiselle was launched in 2001. \n Top notes are orange, mandarin orange, orange blossom and bergamot; \n middle notes are mimosa, jasmine, turkish rose and ylang-ylang; \n base notes are tonka bean, patchouli, opoponax, vanilla, vetiver and white musk. This perfume is the winner of award FiFi Award Best National Advertising Campaign / TV 2008.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Coco Mademoiselle",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/coco_mademoiselle.png",
+          "Price" : "1950"
+        },
+        "Davidoff_Cool_Water_wave" : {
+          "Description" : "Davidoff Cool Water wave By Philippe Boussenton \n\n This perfume was created for a woman who celebrates her free spirit and femininity, but is still self-confident. Perfumer Philippe Bousseton created this floral and fruity cocktail inspired by Aphrodite. With its freshness Davidoff Cool Water Wave reminds you of pure, crystal water. \n It starts with summer notes: juicy, fresh and sweet watermelon that blends with the notes of passionate fruits: mango and guava with floral accords of freesia, datura, pink pepper, peony and corn. \n In the base of this seductive fragrance there are sandalwood, iris and amber. This tear-shaped bottle was designed by Elie Papiernik. Its iridescent ocean blue colour seduces modern, elegant and sophisticated women all over the world. Cool Water Wave was launched in 2007.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Davidoff Cool Water wave",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/davidooffcoolwater.png",
+          "Price" : "1485"
+        },
+        "Escada_Moon_Sparkle" : {
+          "Description" : "Escada Moon Sparkle \n\n 100ml \n\n Escada Moon Sparkle pour Homme by Escada is a Woody Aromatic fragrance for men. Escada Moon Sparkle pour Homme was launched in 2007. \n\n Top notes are ginger, mandarin orange, pepper and bergamot;\n\n middle notes are floral notes, vodka and violet; \n\n base notes are vetiver and cedar. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Escada Moon Sparkle",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/escada_moon_sparkle.png",
+          "Price" : "1470"
+        },
+        "Jadore" : {
+          "Description" : "Jadore By Calice Becker \n\n 100ml \n\n J’adore is a modern, glamorous fragrance, which has become incredibly popular, and for that reason developed in number of variants of different concentrations. J’adore is a luminous fragrance. Its opulent, golden scent shimmers on skin like sunbeams. The classic and ambitions of this fragrance reflects in the bottle shaped like Greek amphora. J’adore presents a new conception of Dior feminity, a scent so new and so in line with Dior style at the same time – sweet but balmy, slightly sharp floral with fresh mandarin in the top; jasmine, plum, orchid and rose in the heart; and amaranth, musk and blackberry in the trail. It was created in 1999.The nose behind this fragrance is Calice Becker.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Jadore",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/jadore.png",
+          "Price" : "2100"
+        },
+        "La_Vie_Est_Belle" : {
+          "Description" : "La Vie Est Belle Lancome \n\n  La Vie Est Belle is a new Lancome fragrance, available on the market from fall 2012. The concept of this fragrance is centered on the idea of natural and simple beauty, freedom from conventions and the choice of once own vision of happiness. The fragrance is a kind of outlook on life, inspired by joy and pleasure in small things.This gourmand yet elegant composition is developed by perfumers Olivier Polge, Dominique Ropion and Anne Flipo. The final formula is the result achieved after three years of probation and 5000 versions. Iris is the key ingredient of the perfume, surrounded by orange blossoms and jasmine in the heart. \n The composition’s opening provides fruity flavors of black currant and pear, while the base is warm, gourmand and powdery due to almond-like accords of tonka bean, praline, patchouli and vanilla.The flacon is a redesigned version of the classic Lancome bottle from 1949. Actress Julia Roberts is the face of the campaign, shot by director Tarsem Singh. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "La Vie Est Belle",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/la_vie_est_belle.png",
+          "Price" : "2050"
+        },
+        "Riri_By_Rihanna" : {
+          "Description" : "Riri By Rihanna \n\n 100ml \n\n Hitting shelves to critical acclaim in 2015, Ri Ri is an exciting women’s fragrance. \n\n With top notes of Italian mandarin, passion fruit, black currant and rum absolute, this perfume has an intoxicating, exotic flair that is reminiscent of the Caribbean. \n\n Heart notes of orange blossom, pink freesia, jasmine and Japanese honey suckle give this fragrance a soft, feminine aroma.\n\n Meanwhile, bottom notes of musk, Madagascan vanilla and Indonesian sandalwood offer a warm, woody foundation. For both special occasions and everyday wear, this perfume belongs in every woman’s repertoire.Rihanna is a world-famous singing sensation. Born in Barbados, the singer has amassed an international following of music enthusiasts. With a unique sense of style and larger-than-life persona, the artist is also a fashion icon. This fragrance comes in a soft pink bottle with golden-hued embellishments. The external packaging is equally classic, featuring a black, textured background and pink writing. For personal use or a gift, this fragrance is a must-have. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Riri By Rihanna",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/riri_by_rihanna.png",
+          "Price" : "1800"
+        },
+        "Si" : {
+          "Description" : "Si \n\n  Si by Giorgio Armani is a Chypre Fruity fragrance for women. Si was launched in 2013. The nose behind this fragrance is Christine Nagel. \n Top note is Cassis; \n middle notes are May Rose and Freesia; \n base notes are Vanilla, Patchouli, Ambroxan and Woody Notes. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Si",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/si.png",
+          "Price" : "1800"
+        },
+        "Tifanny_and_Co_Intense" : {
+          "Description" : "Tifanny and co intense By Daniela Andrier \n\n 100ml \n\n A richer and deeper version of our signature fragrance, Tiffany Eau de Parfum Intense echoes facets of the original composition with a profusion of iris, along with notes of amber and warm vanilla-like benzoin. Personalize this bottle with custom etching to make it the perfect gift. Perfumer Daniela Andrier of Givaudan also signed this edition, conceived as a musky floral fragrance with an additional aura of warmth and sensuality. Top note: Verte de mandarine and pink peppercorn.Heart: Noble iris.Base notes: Amber and benzoin.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Tifanny and Co Intense",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/tifanny_and_co_intense.png",
+          "Price" : "1900"
+        }
+      },
+      "Male" : {
+        "212_Vip_Black_" : {
+          "Description" : "212 VIP Black Own the Party NYC  212 VIP Black by Carolina Herrera is a Aromatic Fougere fragrance for men. 212 VIP Black was launched in 2017. 212 VIP Black was created by Carlos Benaim and Anne Flipo. \n Top notes are Absinthe, Anise and Fennel; \n middle note is Lavender; \n base notes are Black Vanilla Husk and Musk.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "212 Vip Black ",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/212_vip_black.png",
+          "Price" : "1750"
+        },
+        "Acqua_Di_Gio" : {
+          "Description" : "Acqua Di Gio Profumo By Giorgio Armani \n\n  100ml \n\n Acqua Di Gio Cologne by Giorgio Armani, Be whisked away to the thought of your own private island with Acqua di Gio cologne by Giorgio Armani. The overall tone of the fragrance is light citrus and ocean breeze that refresh and delight. \n\n The top notes are orange, lemon, jasmine, lime, bergamot and neroli, which all emphasize the citrus flavor.\n\nThe heart notes, the core of the fragrance, lie in rosemary, peach, lavender, nutmeg, freesia, calone, sea notes, mignonette and coriander, lightening the cologne and making it more refreshing.\n\n The bottom notes that tie together the fragrance are cedar, amber, oak moss, patchouli and musk.This cologne was originally released in 1996, crafted by Alberto Morillas for Giorgio Armani. The well-known clothing designer began his own clothing line for men in 1975 and quickly added a women’s line as well. Branching out to other businesses, the company expanded within the clothing market and to other markets, such as beauty products and fragrances. This decision has led to many well-known fragrances offered under the company’s name. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations. ",
+          "FragranceName" : "Acqua Di Gio Profumo",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/acqua_di_gio.png",
+          "Price" : "2100"
+        },
+        "Acqua_Di_Gio_Absolu" : {
+          "Description" : "acqua Di Gio absolu \n\n  Acqua di Giò Absolu by Giorgio Armani is a Woody Aromatic fragrance for men. Acqua di Giò Absolu was launched in 2018. The nose behind this fragrance is Alberto Morillas. Top notes are Sea Notes, Bergamot, Pear, Grapefruit, Lemon and Apple; middle notes are Lavender, Rosemary and Geranium; base notes are Woody Notes, Tonka Bean, Patchouli, Amberwood and Labdanum. \n GIORGIO ARMANI ACQUA DI GIO ABSOLU, the new creation of the Acqua di Gio fragrance line, is the work of the Master perfumer Alberto Morillas. Mr. Morillas was also the creator of the first Acqua di Gio from 1996, as well as the first female Acqua di Gio from 1995, Acqua di Gio Essenza from 2012 and the marvelous Acqua di Gio Profumo from 2015.  The new version of the iconic Acqua di Gio edition, an Absolu variation, is presented in 2018 as a marine-woody interpretation in which fruits, marine notes and a wooden base create harmony in a new, expressive way.  The fragrance has been announced as one that brings a new sensuality to the collection and as a sophisticated and masculine mixture of marine aromas with patchouli. The composition celebrates the fusion of water and wood; the new chapter of Acqua di Gio shares the expression of a man's connection with nature, and the liberation of his inner strength and freedom.  The composition is sensual, warm, elegant. In addition to the marine notes, fruits and patchouli that form the main theme, reflecting the charismatic fusion of water and wood in this composition, notes of bergamot, rosemary, lavender and geranium are added to reflect masculinity. The balsamic warmth of tonka bean and labdanum are used to emphasize the sensual side of the scent.  The new ACQUA DI GIÒ ABSOLU celebrates a vital, natural sensuality through the eyes of photographer Matthew Brookes and film director François Rousseau. The campaign is centered around the classic essence of water, as well as the vibrant natural relationships between water, minerals and wood, starring model Jason Morgan who embodies the conscious ACQUA DI GIÒ values.  At the top of the ACQUA DI GIÒ ABSOLU fragrance is a natural, wooden cap made from ash (Fraxinus), which is derived from sustainable production, then lacquered and engraved with the iconic Giorgio Armani monogram. Together the cap and the collar merge, reflecting the wooden and aquatic accords of the fragrance itself. The flacon is made of transparent glass and the color of the liquid is in warm amber nuances.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Acqua Di Gio Absolu",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/acqua_di_gio_absolu.png",
+          "Price" : "2500"
+        },
+        "Acqua_Di_Gio_Pour_Homme" : {
+          "Description" : "Acqua Di Gio Pour Homme \n\n  Acqua di Gio by Giorgio Armani is a Aromatic Aquatic fragrance for men. Acqua di Gio was launched in 1996. Acqua di Gio was created by Alberto Morillas and Annick Menardo. \n Top notes are Lime, Lemon, Bergamot, Jasmine, Orange, Mandarin Orange and Neroli; \n middle notes are Sea Notes, Jasmine, Calone, Peach, Freesia, Cyclamen, Hiacynth, Violet, Rosemary, Coriander, Nutmeg, Rose and Mignonette; \n base notes are White Musk, Cedar, Oakmoss, Patchouli and Amber.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Acqua Di Gio Pour Homme",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/acqua_di_gio_pour_homme.png",
+          "Price" : "2400"
+        },
+        "Acqua_Di_Gio_Profondo" : {
+          "Description" : "Acqua Di Gio Profondo \n\n Acqua di Giò Profondo by Giorgio Armani is a Aromatic Fougere fragrance for men. This is a new fragrance. Acqua di Giò Profondo was launched in 2020. The nose behind this fragrance is Alberto Morillas. \n Top notes are Sea Notes, Aquozone, Bergamot and Green Mandarin; \n middle notes are Rosemary, Cypress, Lavender and Mastic or Lentisque; \n base notes are Mineral notes, Patchouli, Musk and Amber. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Acqua Di Gio Profondo",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/acqua_di_gio_profondo.png",
+          "Price" : "2450"
+        },
+        "Active_Man" : {
+          "Description" : "Active Man by Chris Adams \n\n 100ml \n\n Active Man is a Aromatic Fougere fragrance for men. \n Top notes are citruses, bergamot and ozonic notes;\n middle notes are floral notes, lavender, rose and jasmine; \n base notes are sandalwood, cedar and musk . \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Active Man",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/active_man.png",
+          "Price" : "1500"
+        },
+        "Armani_Code_Absolu" : {
+          "Description" : "Armani code Absolu  \n\n  Armani Code Absolu by Giorgio Armani is a Oriental Spicy fragrance for men. This is a new fragrance. Armani Code Absolu was launched in 2019. Top notes are Green Mandarin and Apple; middle notes are Nutmeg, Orange Blossom and Carrot Seeds; base notes are Tonka Bean, Vanilla, Suede and Woody Notes. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Armani Code Absolu",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/armani_code.png",
+          "Price" : "2100"
+        },
+        "Baccarat_Rouge_540" : {
+          "Description" : "Baccarat Rouge 540 by Francis Kurkdjian \n\n  Baccarat Rouge 540 by Maison Francis Kurkdjian is a Oriental Floral fragrance for women and men. Baccarat Rouge 540 was launched in 2015. The nose behind this fragrance is Francis Kurkdjian. \n Top notes are Saffron and Jasmine; \n middle notes are Amberwood and Ambergris; \n base notes are Fir Resin and Cedar. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Baccarat Rouge 540",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/baccarat_rouge.png",
+          "Price" : "2300"
+        },
+        "Bentley" : {
+          "Description" : "Bentley By Nathalie Lorson \n\n 100ml \n\n Bentley for Men by Bentley is a Oriental Spicy fragrance for men. Bentley for Men was launched in 2013. The nose behind this fragrance is Nathalie Lorson.Top notes are black pepper, bergamot and bay leaf;middle notes are clary sage, cinnamon, rum and woody notes;base notes are leather, benzoin, cedar and patchouli.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Bentley",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/bentley.png",
+          "Price" : "2300"
+        },
+        "Black_XS" : {
+          "Description" : "Black Xs By Olivier Cresp \n\n Black XS was created in 2005 . This perfume is definitely masculine. Knowing the desire of some women to wear men’s fragrances, it can be said that no woman would dare to wear Black XS despite of its soft and warm woodsy notes and even sweet notes of the drydown. \n Citrusy opening makes a great introduction into the sweet and spicy heart of the composition. \n Deep and dark sweet fruity notes of the heart are replaced by woodsy notes and amber in the base. In such sweet surrounding amber tends to take a tobacco nuance, while the musk tames the extreme masculinity of this scent. Black XS features fresh lemon notes, Kalamanzi fruit, tagetes, sage, praline, cardamom, cinnamon, Tou balsam, rosewood, black amber, patchouli and ebony.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Black XS",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/black_xs.png",
+          "Price" : "1440"
+        },
+        "Bleu_De_Chanel" : {
+          "Description" : "Bleu De Chanel By Jacques Polge \n\n 100ml\n\n Bleu de Chanel by Chanel is a woody aromatic fragrance for men presented on the market in 2010. The nose behind this fragrance is Jacques Polge. The fragrance features labdanum, nutmeg, ginger, sandalwood, patchouli, mint, jasmine, grapefruit, citruses, vetiver, incense, cedar and pink pepper.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Bleu De Chanel",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/bleu_de_chanel.png",
+          "Price" : "2200"
+        },
+        "Bvlgari_Extreme" : {
+          "Description" : "Bvlgari Extreme By Alberto Morillas \n\n 100ml \n\n The collection of Bvlgari Man was initiated with the fragrance Bvlgari Man launched in 2010. After the original perfume, limited edition Bvlgari Man The Silver Limited Edition with silver stripes on transparent glass was introduced. It depicts the charisma of the modern man who chooses this sensual fragrant composition. The new fragrance will be presented in 2013 as the extreme version aimed at men who desire a new sensual experience BVLGARI MAN EXTREME is announced as very elegant, deep, attractive and intense.\n It excites with its composition starting from the first note and luminous accords of pink grapefruit and Calabrian bergamot. Citrusy notes are combined with cactus zest, which contributes to charismatic opening of the composition and highlights on the floral-spicy heart.\n\n After citruses and cactus zest, white freesia blooms, surrounded by cardamom from Guatemala and gently warmed with amber. \n\n Elegance in the base notes is accentuated with Haitian vetiver, Laotian benzoin and balsa wood.The new composition is signed by perfumer Alberto Morillas, who created the predecessors as well—Bvlgari Man and Bvlgari Man The Silver Limited Edition. The fragrance arrives in a silver flacon and silver and black outer packaging. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Bvlgari Extreme",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/bvlgari_extreme.png",
+          "Price" : "1600"
+        },
+        "Bvlgari_In_Black" : {
+          "Description" : "Bvlgari in Black \n\n 100ml \n\n Bvlgari celebrates 130 years of existence and launches new fragrance Bvlgari Man In Black, as a flanker of the original Bvlgari Man from 2010. The fragrance is announced as bold and charismatic, inspired by the myth of the birth of Vulcan, the god of the earth, interpreted in a way that suits the modern man. \nBvlgari Man In Black is an intense composition of amber, leather, spices and woods.\n\n It opens with accords of natural rum and luminous spices. \n\n Tuberose, iris absolut and leather form the core of the perfume, \n\n placed on the base of benzoin, tonka bean and guaiac wood. \n Bvlgari Man In Black was launched in 2014. The nose behind this fragrance is Alberto Morillas.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Bvlgari In Black",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/bvlgari_in_black.png",
+          "Price" : "2770"
+        },
+        "CR7_" : {
+          "Description" : "CR7 \n\n CR7 by Cristiano Ronaldo is a Aromatic Fougere fragrance for men. CR7 was launched in 2017. Top notes are bergamot, artemisia, cardamom and lavender; middle notes are cinnamon, cedar, iris and tobacco; base notes are sandalwood, vanilla, amber and musk.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "CR7",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/cr7.png",
+          "Price" : "2100"
+        },
+        "Club_De_Nuit_Intense_Man" : {
+          "Description" : "Club de Nuit Intense Man \n\n Club de Nuit Intense Man by Armaf is a Woody Spicy fragrance for men. Club de Nuit Intense Man was launched in 2015. Top notes are Lemon, Pineapple, Black Currant, Bergamot and Apple; middle notes are Birch, Jasmine and Rose; base notes are Musk, Ambergris, Patchouli and Vanilla.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Club De Nuit Intense Man",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/club_de_nuit_intense_man.png",
+          "Price" : "2000"
+        },
+        "Costume_National_Homme" : {
+          "Description" : "Costume National Homme \n\n  Costume National Homme is an original and captivating fragrance for an essential and timeless man with a metropolitan spirit and energetic personality. Created by Master Dominique Ropion, it is a perfect balance of sparkling citrus, spices and sensual and mysterious woods. \n The fresh top notes of sparkling grapefruit, cardamom and bergamot blend with an unexpected heart of cinnamon, thyme and cloves. \n The base notes of patchouli, sandalwood and labdanum turn the composition into a scented enigma.The transparent glass is enriched by the silver logo and treasured in a silver and grey box. Costume National Homme was launched in 2009.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Costume National Homme",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/costume_national_homme.png",
+          "Price" : "2000"
+        },
+        "Creed_Aventus" : {
+          "Description" : "Aventus Cologne By Olivier Creed \n\n Aventus Cologne by Creed is a Aromatic Fruity fragrance for men. This is a new fragrance. Aventus Cologne was launched in 2018. \n Top notes are ginger, mandarin orange and pink pepper; \n middle notes are patchouli, sandalwood and vetiver; base notes are musk, styrax, birch and tonka bean.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Creed Aventus",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/creed_aventus.png",
+          "Price" : "2500"
+        },
+        "Creed_Viking" : {
+          "Description" : "Creed Viking By Olivier Creed \n\n  Viking by Creed is a Woody Aromatic fragrance for men. Viking was launched in 2017. The nose behind this fragrance is Olivier Creed. \n Top notes are Pink Pepper, Calabrian bergamot and Sicilian Lemon; \n middle notes are Pink Pepper, Spicy Mint and Bulgarian Rose; \n base notes are Lavender, Sandalwood, Haitian Vetiver and Indian Patchouli.  Viking, a fiery men’s fragrance that bottles the fearless spirit of boundless exploration for the modern man who goes against the grain. Inspired by the incredibly crafted longships, a centerpiece of the Viking Age and one of the greatest design feats of the ninth century. A symbol of voyage and undeniable perseverance, longships were carefully designed for the skilled seaman who embodied unbridled determination to conquer. Viking marks the brand’s first major men’s scent since the introduction of the cult best-selling Aventus in 2010.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Creed Viking",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/creed_viking.png",
+          "Price" : "2600"
+        },
+        "Dolce_and_Gabanna_Light_Blue" : {
+          "Description" : "Dolce & Gabanna Light Blue By Olivier Cresp \n\n 100ml \n\n Dolce & Gabbana Light blue is a casual and breezy, sparkling fruity-floral scent that evokes the spirit of the Sicilian summer.Mouth-watering and fresh notes of lime and cedar are bringing an image of the South woods on the seashore.A very popular summer fragrance. Launched in 2001.The nose behind this fragrance is Olivier Cresp.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Dolce and Gabanna Light Blue",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/dolce_and_gabanna_light_blue.png",
+          "Price" : "2100"
+        },
+        "Dolce_and_Gabanna_The_One" : {
+          "Description" : "Dolce & Gabanna the One By Alberto Morillas \n\n 100ml \n\n The new composition is signed by perfumer Alberto Morillas, who created the predecessors as well—Bvlgari Man and Bvlgari Man The Silver Limited Edition. The fragrance arrives in a silver flacon and silver and black outer packaging. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Dolce and Gabanna The One",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/dolce_and_gabanna_the_one.png",
+          "Price" : "1700"
+        },
+        "Egoiste_" : {
+          "Description" : "Egoiste Chanel By Jacques Polge \n\n Egoiste by Chanel is a Woody Spicy fragrance for men. Egoiste was launched in 1990. The nose behind this fragrance is Jacques Polge. \n Top notes are Brazilian Rosewood, Coriander, Sicilian Mandarin and Mahogany; \n middle notes are Cinnamon, Damask Rose and Carnation; base notes are Sandalwood, Tobacco, Vanilla, Leather and Amber.\n\n\n  Egoiste is a very conservative masculine fragrance composed of spice, wood and vanilla notes. The top notes, intensive and fresh, include rosewood and coriander. Later on, the fragrance character becomes warmer and mysterious due to Bulgarian rose, carnation and warm cinnamon in its heart. The main theme of the composition (long and intensive woodsy trace) reaches its full expression in the lingering base composed of sandalwood, intensive vanilla and ambrette seeds. The perfume was created in 1990.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Egoiste",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/egoiste.png",
+          "Price" : "2300"
+        },
+        "F" : {
+          "Description" : "F by Olivier Polge \n\n  F by Ferragamo Black arrived on the market in the beginning of 2009, as an elegant, evening and intensive version of the original F by Ferragamo. The perfume was created by Olivier Polge, who composed it of lavender absolute, black pepper, coriander seed, labdanum and tonka. The new bottle is a reinterpretation of its antecedent, coloured in black, with a silver logo. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "F",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/f.png",
+          "Price" : "2200"
+        },
+        "Feilinka" : {
+          "Description" : "Feilinka \n\n 100ml \n\n Feilinka is a fragrance that will make your more attractive.Perfect for gift giving on any occasion, all year round.It's A classic designer fragrance for men and women which comes in a Portable size, easy to carry and use.This enchanting fragrance is very fresh, very attractive.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Feilinka",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/feilinka.png",
+          "Price" : "1900"
+        },
+        "Guerlain_Intense" : {
+          "Description" : "Guerlain intense \n\n Guerlain launched L'Homme Ideal fragrance in 2014.The first reinterpretation called L'Homme Ideal Cologne was introduced in spring 2015 as its invigorating and lighter version. The third flanker, announced as more intense, more sensual and mysterious, L'Homme Idéal Eau de Parfum, comes out in April 2016.The new fragrance is developed by the Guerlain in-house perfumer Thierry Wasser along with colleague Delphine Jelk. The composition is a woody-oriental, focusing on the almond note covered with leather and Guerlinade vanilla. \n The opening notes include bergamot, spices and almond. Turkish rose, incense and vanilla are in the heart, while the base consists of sandalwood, leather and tonka.The bottle retains its original form, colored in a soft amber shade with the logo letters in bright orange. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Guerlain Intense",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/guerlain.png",
+          "Price" : "1900"
+        },
+        "Hugo_Boss_The_Scent" : {
+          "Description" : "Hugo Boss The Scent \n\n  Boss The Scent by Hugo Boss is a Aromatic Spicy fragrance for men. Boss The Scent was launched in 2015. Boss The Scent was created by Bruno Jovanovic and Pascal Gaurin. \n Top notes are Ginger, Mandarin Orange and Bergamot; \n middle notes are Maninka and Lavender;\n base notes are Leather and Woody Notes.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitation",
+          "FragranceName" : "Hugo Boss The Scent",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/hugo_boss_the_scent.png",
+          "Price" : "1850"
+        },
+        "Individuel_Montblanc" : {
+          "Description" : "Individuel Montblanc for men By Pierre Bourdon \n\n  Individuel by Montblanc is a Oriental Woody fragrance for men. Individuel was launched in 2003. \n Top notes are rosemary, pineapple, coriander, cinnamon, lavender, juniper berries, mint, bergamot and cardamom; \n middle notes are orange blossom, violet, jasmine and geranium; \n base notes are sandalwood, amber, patchouli, musk, raspberry, vanilla, dark chocolate, oakmoss and vetiver.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Individuel Montblanc",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/individuel_montblanc.png",
+          "Price" : "2100"
+        },
+        "Invictus" : {
+          "Description" : "Invictus By Paco Rabanne \n\n 100ml \n\n Invictus. Incarnation of a man in all his power. Absolute hero. Blessed by the gods and ready to take on any challenge. Invictus men fragrance embodies the victory. A phenomenal shock between sharp freshness and animal sensuality. Two forces that nothing and no-one can resist. A mythical scent for a man who is a legend. Invictus is the fragrance of a man at the height of his powers. A hero blessed by the gods, ready to take on any challenge. Notes of grapefruit, patchouli, amber ... Paco Rabanne Invictus is the scent of victory.",
+          "FragranceName" : "Invictus",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/invictus.png",
+          "Price" : "3050"
+        },
+        "La_Nuit_De_LHomme" : {
+          "Description" : "La Nuit De L'Homme \n\n  La Nuit de l'Homme by Yves Saint Laurent is a Woody Spicy fragrance for men. La Nuit de l'Homme was launched in 2009. La Nuit de l'Homme was created by Anne Flipo, Pierre Wargnye and Dominique Ropion. Top note is Cardamom; middle notes are Lavender, Virginia Cedar and Bergamot; base notes are Caraway and Vetiver.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "La Nuit De LHomme",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/La_nuit.png",
+          "Price" : "1800"
+        },
+        "Layton_Exclusif" : {
+          "Description" : "\"Layton Exclusif By Hamid Merati-Kashani \\n\\n   Layton Exclusif is an elegant and luxurious fragrance made up of the finest ingredients.\\n The aroma opens with the notes of almond and bergamot attenuated by the sweetness of mandarin. The watery notes add a bit of expressiveness to the bouquet. \\n  In the \"heart\" of the fragrance we find pink and gardenia arrangements contrasted with a geranium touch and with a tender and almost imperceptible water lily. Zibet notes give an animal-like feel to the perfume.\\n The base is formed by Paraguay's guaiac accords, Laos agarwood, Indonesia's patchouli, and an extraordinary Ceylon sandal. The notes of amber and moss seasoned with pink pepper and vanilla soften the woody nuances making the composition rich and enveloping.A pinch of coffee adds a sensual and expressive touch.Layton Exclusif was launched in 2017. \\n\\n All products are original, authentic name brands. We do not sell knockoffs or imitations.\"",
+          "FragranceName" : "Layton Exclusif",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/layton_exclusif.png",
+          "Price" : "2900"
+        },
+        "One_Million" : {
+          "Description" : "One million By Olivier Peschuex and Michael Girard \n\n In 2008 Paco Rabanne presented masculine fragrance 1 Million that soon became extremely popular. Flankers like 1 Million Absolutely Gold in 2012 and 1 Million Intense in 2013, as well as limited edition packaging 1 Million $, were made for the many fans of the fragrance.All those who found the original to be too heavy might like the new version 1 Million Cologne, coming out in summer 2015. The scent is fresher and more energetic, seductive and charming. It supposes to be fun. Opening with marine notes, citrus cocktail of mandarin and cardamom, it mixes floral notes of rose with juniper berries in the heart. The base consists of patchouli, tonka bean and leather. The bottle retains the form of a gold bar.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "One Million",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/one_million.png",
+          "Price" : "1945"
+        },
+        "One_Million_Lucky" : {
+          "Description" : "One million lucky By Nathalie Gracia-Cetto \n\n 100ml \n\n The best-selling perfumes from the house of Paco Rabanne 1 Million (2008) and Lady Million (2010) get the new interpretations that come out in the spring of 2018 - 1 Million Lucky and Lady Million Lucky.Seize your dreams and build your own life. Intensely. Grab hold of happiness when it arises. Pure feeling. Tremble, share, and dare. Without limits. Live every moment, without delay.One Million Lucky Eau de Toilette is announced as a pulsating and captivating scent of woody and gourmand tones. It is described as fresh, vivid and sensual. Hazelnut note enriches the composition of woody elements, with fresh ozone combined with Greengage plum.The nose behind this fragrance is Nathalie Gracia-Cetto.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "One Million Lucky",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/one_million_lucky.png",
+          "Price" : "1950"
+        },
+        "Polo_Black" : {
+          "Description" : "Polo Black \n\n  Polo Black by Ralph Lauren is a Woody Aromatic fragrance for men. Polo Black was launched in 2005. The nose behind this fragrance is Pierre Negrin.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Polo Black",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/polo_black.png",
+          "Price" : "2700"
+        },
+        "Polo_Blue" : {
+          "Description" : "Polo Blue by Ralph Lauren \n\n Polo BLue is a Aromatic Fougere fragrance for men. Polo Blue was launched in 2003. Polo Blue was created by Carlos Benaim and Christophe Laudamiel. \n Top notes are melon, mandarin orange and cucumber; \n middle notes are basil, sage and geranium; \n base notes are musk, woodsy notes and suede. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Polo Blue",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/polo_blue.png",
+          "Price" : "2930"
+        },
+        "Polo_Red" : {
+          "Description" : "\"Polo red By Olivier Gillotin \\n\\n Polo Red by Ralph Lauren is a Woody Spicy fragrance for men. Polo Red was launched in 2013. The nose behind this fragrance is Olivier Gillotin. \\n Top notes are Cranberry, Grapefruit and Italian Lemon; \\n middle notes are Saffron and Sage; \\n base notes are Amber, Coffee and Woodsy Notes.The latest edition by the house of Ralph Lauren belongs to the collection of men's fragrance Polo which finally celebrates the fiery red color this year. \\n Polo RED is announced as a ferocious and energizing fragrance which includes ingredients fitting the red color. The composition opens with red grapefruit united with cranberry and Italian lemon. The heart of the composition emphasizes accords of red sage, red saffron and lavender, while the \"red notes\" in the base are described with red wood, hot amber and fragrant coffee beans! The spicy red composition of woody-spicy character is signed by perfumer Olivier Gillotin, carrying the scent of strength, masculinity and character.\\n\\n All products are original, authentic name brands. We do not sell knockoffs or imitations.\"",
+          "FragranceName" : "Polo Red",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/polo_red.png",
+          "Price" : "2800"
+        },
+        "Revolt" : {
+          "Description" : "Revolt\n\n 100ml \n\n  Revolt for men is a floral Eau de Parfum with\n\n Base Note: Benzoin , Patchouli , Styrax , Tonka Bean ; Heart Note: Neroli, Fir , Geranium ; \n\n Top Note: Rosemary, Lemon .\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Revolt",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/revolt.png",
+          "Price" : "1800"
+        },
+        "Sauvage" : {
+          "Description" : "Sauvage  By Francois Demachy\n\n 100ml \n\n Dior launches its new fragrance Sauvage, with the name originating from the fragrance Eau Sauvage from 1966, although the two don’t belong to the same collection. Sauvage is inspired by wild, open spaces; blue sky that covers rocky landscapes, hot under the desert sun.Dior in-house perfumer, François Demachy, signed this creation. The fragrance is announced as radically fresh, raw and noble at the same time. The composition is reportedly prevalent with carefully selected natural ingredients. Fresh top notes of Calabria bergamot encounter ambroxan, obtained from precious ambergris, and its woody trail.Dior Sauvage comes out in September 2015, advertised by actor Johnny Depp. It is available as 60 and 100 ml Eau de Toilette. The nose behind this fragrance is Francois Demachy.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Sauvage",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/sauvage.png",
+          "Price" : "1650"
+        },
+        "Spice_Bomb" : {
+          "Description" : "Spice Bomb By Olivier Polge \n\n  Spicebomb by Viktor and Rolf is a Woody Spicy fragrance for men. Spicebomb was launched in 2012. The nose behind this fragrance is Olivier Polge. \n  Top notes are Pink Pepper, elemi, Bergamot and Grapefruit; \n middle notes are Cinnamon, Saffron and Paprika; \n base notes are Tobacco, Leather and Vetiver. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Spice Bomb",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/spice_bomb.png",
+          "Price" : "2500"
+        },
+        "Spice_Bomb_Extreme" : {
+          "Description" : "Spice Bomb Extreme \n\n The popular men’s fragrance by the house of Viktor & Rolf Spicebomb has received a more intense successor - SPICEBOMB EXTREME. The fragrance comes in a flacon shaped like hand grenade with a copper ring.It has explosive composition, which highlights aromatic lavender in unique way thanks to hot and tart spices. Lavender is mixed with caraway and black pepper, leaving a trail of hotness above masculine shades of tobacco and subtle, comfortable vanilla. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Spice Bomb Extreme",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/spice_bomb_extreme.png",
+          "Price" : "2800"
+        },
+        "Stetson_Coty" : {
+          "Description" : "Stetson coty \n\n  Stetson by Coty is a Chypre fragrance for men. Stetson was launched in 1981. \n Top notes are Lavender, Clary Sage, Bergamot, Lemon and Lime; \n middle notes are Carnation, Geranium, Vetiver, Cedar, Orris Root, Jasmine and Patchouli; \n base notes are Honey, Musk, Amber, Vanilla and Tonka Bean. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Stetson Coty",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/stetson.png",
+          "Price" : "2600"
+        },
+        "Ultra_Male" : {
+          "Description" : "Gaultier Ultramale \n\n  Jean Paul Gaultier launches its new fragrance Ultra Male in summer 2015. The fragrance is a reinterpretation or enhanced version of the popular original Le Male from 1995. Ultra Male, announced as masculine, intense, seductive and at the same time delicate, is supposedly built on contrasts notes and is a spicier version of the original. \n It opens with citrus notes of bergamot, along with juicy pear, black lavender and mint. \nThe heart includes spices of cumin and cinnamon, with aromatic clary sage. \n The base consists of black vanilla, amber and woods. It is signed by Francis Kurkdjian. The face of the advertising campaign is model Jarrod Scott. The fragrance arrives in a characteristic torso bottle, this time colored in dark blue with black stripes. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Ultra Male",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/ultramale.png",
+          "Price" : "1940"
+        },
+        "Versace_Dylan_Blue" : {
+          "Description" : "Versace Dylan Blue \n\n  Versace Pour Homme Dylan Blue by Versace is a Aromatic Fougere fragrance for men. Versace Pour Homme Dylan Blue was launched in 2016. The nose behind this fragrance is Alberto Morillas. \n Top notes are Calabrian bergamot, Grapefruit, Water Notes and Fig Leaf;\n  middle notes are Ambroxan, Patchouli, Black Pepper, Violet Leaf and Papyrus; \n base notes are Incense, Musk, Tonka Bean and Saffron. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Versace Dylan Blue",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/versace_dylan_blue.png",
+          "Price" : "2100"
+        },
+        "Versace_Eros" : {
+          "Description" : "Versace Eros \n\n  Eros by Versace is a Aromatic Fougere fragrance for men. Eros was launched in 2012. The nose behind this fragrance is Aurelien Guichard. \n\n Top notes are Mint, Green Apple and Lemon;\n middle notes are Tonka Bean, Ambroxan and Geranium; \n base notes are Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver and Oakmoss.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Versace Eros",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/versace_eros.png",
+          "Price" : "2100"
+        },
+        "Versace_Oud_Noir" : {
+          "Description" : "Versace Oud Noir By Versace \n\n 100ml \n\n Versace Pour Homme Oud Noir by Versace is a Oriental Woody fragrance for men. Versace Pour Homme Oud Noir was launched in 2013. \n\nTop notes are bitter orange, neroli and black pepper;\n\n middle notes are cardamom, saffron and olibanum; \n\n base notes are agarwood (oud), patchouli and leatherwood. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Versace Oud Noir",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/versace_oud_noir.png",
+          "Price" : "2800"
+        },
+        "Villain" : {
+          "Description" : "Villain By  Adriana Medina-Baez \n\n 100ml \n\n Ed Hardy Villain for Men is a Aromatic Fougere fragrance for men. Ed Hardy Villain for Men was launched in 2011. The nose behind this fragrance is Adriana Medina-Baez. The fragrance features lavender, musk, sandalwood, virginia cedar, sage, amber, nutmeg, cardamom, bergamot, basil and pepper. \n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Villain",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/villain.png",
+          "Price" : "1600"
+        }
+      }
+    },
+    "Coupons" : {
+      "GcMNBSScFhdH68ueaqhsoBG5IYx1" : {
+        "AJEIDY300" : {
+          "Coupon" : "AJEIDY300",
+          "MinPrice" : "400"
+        }
+      }
+    },
+    "CustomerOrders" : {
+      "Sat_Oct_24_09_27_54_GMT+03_00_2020" : {
+        "Date" : "Sat_Oct_24_09_27_54_GMT+03_00_2020",
+        "Items" : "{\"Bleu De Chanel\",\"Bvlgari In Black\",\"Feilinka\",\"Active Man\",",
+        "OrderStatus" : "Completed",
+        "PhoneNumber" : "0731846585",
+        "ReceiptNumber" : "14470256542798074E13",
+        "Total" : "8370",
+        "UID" : "GcMNBSScFhdH68ueaqhsoBG5IYx1"
+      },
+      "Sat_Oct_24_10_27_13_GMT+03_00_2020" : {
+        "Date" : "Sat_Oct_24_10_27_13_GMT+03_00_2020",
+        "Items" : "{\"Bentley\",",
+        "OrderStatus" : "Completed",
+        "PhoneNumber" : "0649494949",
+        "ReceiptNumber" : "6067757290297604E13",
+        "Total" : "2000",
+        "UID" : "GcMNBSScFhdH68ueaqhsoBG5IYx1"
+      },
+      "Sat_Oct_24_10_29_39_GMT+03_00_2020" : {
+        "Date" : "Sat_Oct_24_10_29_39_GMT+03_00_2020",
+        "Items" : "{\"Allure Sensuelle\",\"Bentley\",",
+        "OrderStatus" : "Completed",
+        "PhoneNumber" : "0946846466",
+        "ReceiptNumber" : "7055737145787738E13",
+        "Total" : "1950",
+        "UID" : "GcMNBSScFhdH68ueaqhsoBG5IYx1"
+      },
+      "Thu_Nov_05_11_25_43_GMT+03_00_2020" : {
+        "Date" : "Thu_Nov_05_11_25_43_GMT+03_00_2020",
+        "Items" : "{\"Acqua Di Gio Profumo\",",
+        "OrderStatus" : "Processing",
+        "PhoneNumber" : "0946816455",
+        "ReceiptNumber" : "8386232459843577E13",
+        "Total" : "2500",
+        "UID" : "S567diDVoCfNFanMUE934cWbvwp2"
+      },
+      "Thu_Oct_22_20_48_36_GMT+03_00_2020" : {
+        "Date" : "Thu_Oct_22_20_48_36_GMT+03_00_2020",
+        "Items" : "{\"Acqua Di Gio Profumo\",",
+        "OrderStatus" : "Completed",
+        "PhoneNumber" : "0740392957",
+        "ReceiptNumber" : "3854785986315877E13",
+        "Total" : "2500",
+        "UID" : "GcMNBSScFhdH68ueaqhsoBG5IYx1"
+      },
+      "Wed_Oct_28_15_26_47_GMT+03_00_2020" : {
+        "Date" : "Wed_Oct_28_15_26_47_GMT+03_00_2020",
+        "Items" : "{\"Acqua Di Gio Profumo\",",
+        "OrderStatus" : "Completed",
+        "PhoneNumber" : "0764813849",
+        "ReceiptNumber" : "1158275692079025E13",
+        "Total" : "2200",
+        "UID" : "GcMNBSScFhdH68ueaqhsoBG5IYx1"
+      }
+    },
+    "Orders" : {
+      "GcMNBSScFhdH68ueaqhsoBG5IYx1" : {
+        "Sat_Oct_24_09_27_54_GMT+03_00_2020" : {
+          "Items" : "{\"Bleu De Chanel\",\"Bvlgari In Black\",\"Feilinka\",\"Active Man\",",
+          "OrderStatus" : "Completed",
+          "PhoneNumber" : "0731846585",
+          "ReceiptNumber" : "14470256542798074E13",
+          "Total" : "8370"
+        },
+        "Sat_Oct_24_10_27_13_GMT+03_00_2020" : {
+          "Items" : "{\"Bentley\",",
+          "OrderStatus" : "Completed",
+          "PhoneNumber" : "0649494949",
+          "ReceiptNumber" : "6067757290297604E13",
+          "Total" : "2000"
+        },
+        "Sat_Oct_24_10_29_39_GMT+03_00_2020" : {
+          "Items" : "{\"Allure Sensuelle\",\"Bentley\",",
+          "OrderStatus" : "Completed",
+          "PhoneNumber" : "0946846466",
+          "ReceiptNumber" : "7055737145787738E13",
+          "Total" : "1950"
+        },
+        "Thu_Oct_22_20_48_36_GMT+03_00_2020" : {
+          "Items" : "{\"Acqua Di Gio Profumo\",",
+          "OrderStatus" : "Completed",
+          "PhoneNumber" : "0740392957",
+          "ReceiptNumber" : "3854785986315877E13",
+          "Total" : "2500"
+        },
+        "Wed_Oct_28_15_26_47_GMT+03_00_2020" : {
+          "Items" : "{\"Acqua Di Gio Profumo\",",
+          "OrderStatus" : "Completed",
+          "PhoneNumber" : "0764813849",
+          "ReceiptNumber" : "1158275692079025E13",
+          "Total" : "2200"
+        }
+      },
+      "S567diDVoCfNFanMUE934cWbvwp2" : {
+        "Thu_Nov_05_11_25_43_GMT+03_00_2020" : {
+          "Items" : "{\"Acqua Di Gio Profumo\",",
+          "OrderStatus" : "Processing",
+          "PhoneNumber" : "0946816455",
+          "ReceiptNumber" : "8386232459843577E13",
+          "Total" : "2500"
+        }
+      }
+    },
+    "Payments" : {
+      "number" : "0740392957",
+      "paybill" : "5380553"
+    },
+    "Users" : {
+      "hSyg72XVhbTo32PWuouKyt08HOs2" : {
+        "Bleu_De_Chanel" : {
+          "Description" : "Bleu De Chanel By Jacques Polge \n\n 100ml\n\n Bleu de Chanel by Chanel is a woody aromatic fragrance for men presented on the market in 2010. The nose behind this fragrance is Jacques Polge. The fragrance features labdanum, nutmeg, ginger, sandalwood, patchouli, mint, jasmine, grapefruit, citruses, vetiver, incense, cedar and pink pepper.\n\n All products are original, authentic name brands. We do not sell knockoffs or imitations.",
+          "FragranceName" : "Bleu De Chanel",
+          "ImageUrl" : "https://raw.githubusercontent.com/deeksonparlma/sample/master/bleu_de_chanel.png",
+          "Price" : "1500"
+        }
+      }
+    }
+  },
+  "Clients" : {
+    "469536" : {
+      "Email" : "janetdoe@gmail.com",
+      "House_no" : "house-1",
+      "ID_number" : "469536",
+      "Status" : "Active",
+      "public_code" : "454859974",
+      "username" : "Janet Doe"
+    },
+    "12558554" : {
+      "Amount_Due" : "35646",
+      "Email" : "beatrice@gmail.com",
+      "House_no" : "house-7",
+      "ID_number" : "12558554",
+      "Status" : "Active",
+      "public_code" : "398579735",
+      "username" : "Beatrice"
+    },
+    "37757780" : {
+      "Amount_Due" : "17000",
+      "Email" : "dickson.nyaigoti@gmail.com",
+      "House_no" : "house-2",
+      "ID_number" : "37757780",
+      "Status" : "InActive",
+      "public_code" : "601739074",
+      "username" : "Dickso"
+    },
+    "64946944" : {
+      "Amount_Due" : "00",
+      "Email" : "jackdoe@gmail.com",
+      "House_no" : "05",
+      "ID_number" : "64946944",
+      "Status" : "InActive",
+      "public_code" : "279917485",
+      "username" : "Jack Doe"
+    },
+    "69484644" : {
+      "Amount_Due" : "24000",
+      "Email" : "johndoe@gmail.com",
+      "House_no" : "house-4",
+      "ID_number" : "69484644",
+      "Status" : "Active",
+      "public_code" : "572213855",
+      "username" : "John Doe"
+    },
+    "3154895584" : {
+      "Amount_Due" : "43534",
+      "Email" : "janedoe@gmail.com",
+      "House_no" : "house-5",
+      "ID_number" : "3154895584",
+      "Status" : "Active",
+      "public_code" : "577915873",
+      "username" : "Jane Doe"
+    }
+  },
+  "Houses" : {
+    "occupied" : {
+      "house-1" : "house-1",
+      "house-2" : "house-2",
+      "house-3" : "house-3",
+      "house-4" : "house-4",
+      "house-5" : "house-5",
+      "house-6" : "house-6",
+      "house-7" : "house-7",
+      "house-8" : "house-8"
+    },
+    "prices" : {
+      "house-1" : "20000",
+      "house-2" : "17000",
+      "house-3" : "24000",
+      "house-4" : "12000",
+      "house-5" : "43534",
+      "house-6" : "453453",
+      "house-7" : "35646",
+      "house-8" : "86650"
+    }
+  },
+  "Public_Code" : {
+    "279917485" : "64946944",
+    "398579735" : "12558554",
+    "454859974" : "469536",
+    "572213855" : "69484644",
+    "577915873" : "3154895584",
+    "601739074" : "37757780"
+  },
+  "uid" : {
+    "3HIE1sIge6aabpDG1iDC6GKoWdR2" : "69484644",
+    "6e0hxD0Yp2Q9nJtiS6l1j2z5MWB3" : "469536",
+    "CPfb3zcYZYQOTLlnHvGLqvidSx33" : "3154895584",
+    "GnFbUp7iaHRD5WOnf72dCp25tug2" : "12558554",
+    "LVNeOswpEjM4bb9WCpNYoyLWNar1" : "37757780",
+    "t3Cury6aj3foTniZp9fcRPj5noA3" : "64946944"
+  }
+}
